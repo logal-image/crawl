@@ -48,6 +48,7 @@ levelup_stats:
   - dex
 mutations:
   1:
+    MUT_NO_REGENERATION : 1
     MUT_CARNIVOROUS : 1
     MUT_BLURRY_VISION : 1
     MUT_SHAGGY_FUR: 1
